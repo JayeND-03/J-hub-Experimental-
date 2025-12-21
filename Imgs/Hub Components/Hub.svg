@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Krita: https://krita.org -->
+<svg xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:krita="http://krita.org/namespaces/svg/krita"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    width="585.6pt"
+    height="585.6pt"
+    viewBox="0 0 585.6 585.6">
+<defs/>
+<g id="group0" transform="matrix(1.56163482769032 0 0 1.56163482769032 -227.998684842787 -245.183210346346)" fill="none">
+  <path id="shape0" transform="translate(146, 204)" fill="#a6a6a6" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" d="M0 108L187.5 0L375 108L187.5 216Z" sodipodi:nodetypes="ccccc"/>
+  <rect id="shape1" transform="translate(146, 269)" fill="#a6a6a6" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" width="51" height="43"/>
+  <rect id="shape2" transform="translate(470, 269)" fill="#a6a6a6" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" width="51" height="43"/>
+  <path id="shape3" transform="translate(146, 161)" fill="#f2f2f2" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" d="M0 108L187.5 0L375 108L187.5 216Z" sodipodi:nodetypes="ccccc"/>
+  <path id="shape4" transform="translate(146, 377)" fill="#a6a6a6" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" d="M375 0L375 0L375 43.025L375 43.025L187.5 151L0 43.025L0 0L187.5 107.975ZM0 0L0 0Z" sodipodi:nodetypes="cccccccccccc"/>
+  <path id="shape5" transform="translate(146, 356)" fill="#f2f2f2" fill-rule="evenodd" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" d="M337.644 0L375 21.431L187.5 129L0 21.431L37.356 0L187.5 86.138Z" sodipodi:nodetypes="ccccccc"/>
+ </g>
+</svg>

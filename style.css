@@ -1,0 +1,163 @@
+@font-face {
+  font-family: "aptos";
+  src: url(Fonts/aptosmono-sbold.ttf);
+}
+  @font-face {
+    font-family: "fun";
+    src: url(Fonts/CartoonFun.ttf);
+  }
+@font-face {
+  font-family: "segoe-ficons";
+  src: url(Fonts/SegoeFIcons.ttf);
+}
+
+/* --FONTS section ^^^above^^^ --*/
+
+  .flex-nextto{
+    display: flex;
+  }
+
+/* --GENERAL STUFF ^^^above^^^ --*/
+  .bold-fonts-1 {
+    /*border: 2px solid yellow; /*--For Border-Testing--*/
+    font-family: "aptos";
+    font-size: 15px;
+    text-align: left;
+    margin-left: 20px;
+  }
+  .bold-fonts-2 {
+    /*border: 2px solid yellow; /*--For Border-Testing--*/
+    font-family: "aptos";
+    font-size: 12px;
+    text-align: left;
+    margin-left: 20px;
+  }
+  .mid-icon1 {
+    /*border: 2px solid yellow; /*--For Border-Testing--*/
+    display:flex;
+    justify-content: center;
+    align-items: end;
+    height:60px;
+
+    font-family: "segoe-ficons";
+    font-size: 32px 
+  }
+  .mid-icon2 { /*BIGGER SIZE*/
+    /*border: 2px solid yellow; /*--For Border-Testing--*/
+    display:flex;
+    justify-content: center;
+    align-items: end;
+    height:60px;
+
+    font-family: "segoe-ficons";
+    font-size: 35px
+  }
+  .left-icon1 { 
+    /*border: 2px solid yellow; /*--For Border-Testing--*/
+    display: flex;
+    width: 30px;
+    height: 44px;
+    justify-content: center;
+    align-items: center;
+
+    font-family: "segoe-ficons";
+    font-size: 22px;
+  }
+
+  .bt-left-fonts-1 {
+    /*border: 2px solid yellow; /*--For Border-Testing--*/
+    display:flex;
+    justify-content: flex-start;
+    align-items: end;
+    height: 30px;
+
+    font-family: "aptos";
+    font-size: 12px;
+    text-align: left;
+    margin-left: 5px;
+  }
+  .bt-left-fonts-2 {
+    /*border: 2px solid yellow; /*--For Border-Testing--*/
+    display: flex;
+    height: 44px;
+    justify-content: left;
+    align-items: center;
+
+    font-family: "aptos";
+    font-size: 13px;
+    text-align: left;
+    margin-left: 5px;
+  }
+
+/* BUTTONS vvv --*/
+  .available-button {
+    backdrop-filter: blur(10px);
+    background-color: rgba(165, 42, 42, 0.524);
+    color: aliceblue;
+    text-align: center;
+    border: none;
+    height: 104px;
+    width: 322px;
+    margin-bottom: 4px;
+  }
+
+  .linkage1-button {
+    backdrop-filter: blur(10px);
+    background-color: rgba(28, 28, 28, 0.524);
+    color: aliceblue;
+    text-align: left;
+    margin-right: 1px;
+    border: none;
+    height: 104px;
+    width: 104px;
+    cursor: pointer;
+    margin-bottom: 4px;
+    
+  }
+
+  .dev-button {
+    backdrop-filter: blur(10px);
+    background-color: rgba(28, 28, 28, 0.524);
+    color: aliceblue;
+    border: none;
+    height: 50px;
+    width: 322px;
+
+    cursor: pointer;
+  }
+
+/* --STYLE OF HTML ^^^above^^^ --*/
+
+  test2 {
+    font-family: "fun";
+  }
+
+  mainmenu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  taskbar-main {
+    border: 2px solid yellow; /*--For Border-Testing--*/
+    display: flex;
+    justify-content: center;
+    height: 0.9cqb;
+    align-items: end;
+  }
+  maindesktop {
+    border: 2px solid yellow; /*--For Border-Testing--*/
+    display: flex;
+    height: 96cqb;
+    justify-content: center;
+    align-items: center;
+  }
+
+/* --BACKGROUND vvv below vvv -- */
+  body {
+    background: url(Imgs/Wallpapers/Team10.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+  }
